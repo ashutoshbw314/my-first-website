@@ -6,9 +6,13 @@ body {
 
 h1 {
   text-align: center;
-  border-bottom: 5px dotted yellow;
+  border-bottom: 10px dotted orange;
+  padding-bottom: 5px;
 }
 
 img {
   margin: 0 auto;
+  display: block;
+  width: 15em;
+  max-width: 100%;
 }
